@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MENU.unity
+    guid: 6243fa4fd9445f341b321615925738bd
+  - enabled: 1
+    path: Assets/Scenes/cena-principal.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/QuizTrocaFase.unity
+    guid: 1c483c6d34d9ac84b92344f518812080
+  - enabled: 1
+    path: Assets/Scenes/CIDADE.unity
+    guid: 1e692b3261f0dee48a61b9250bbaa928
+  - enabled: 1
+    path: Assets/Scenes/PIZZARIA.unity
+    guid: f96b597967e0ea44e8fb7ae85e68dafb
+  - enabled: 1
+    path: Assets/Scenes/PADARIA.unity
+    guid: 4a53e312b8e5de246bee57b281d80259
+  - enabled: 1
+    path: Assets/Scenes/LOJA-COMPRAS.unity
+    guid: 5079d5b9b85bb1143bd1a100c1f5573d
+  - enabled: 1
+    path: Assets/Scenes/HOUSE.unity
+    guid: bbf50a4225fda7d44954f459e2ae903a
+  - enabled: 1
+    path: "Assets/Scenes/VILA-MATEM\xC1TICA.unity"
+    guid: ff691c9110133c0438fc958d1cb6d89f
+  - enabled: 1
+    path: Assets/Scenes/FINAL-CASTELO.unity
+    guid: 93f76d76068c8134a953d563cb30b76a
+  - enabled: 1
+    path: Assets/Scenes/CASTELO.unity
+    guid: d732dda4017eb0e4081dc5afd5ec724d
+  - enabled: 1
+    path: Assets/Scenes/QuizFINAL.unity
+    guid: 1509bce4c370ae24d84632bfc4fbafb1
+  - enabled: 1
+    path: "Assets/Scenes/QUIZ-ADI\xC7\xC3O.unity"
+    guid: 28d463e3b3c671349afcf32e4f037177
+  - enabled: 1
+    path: "Assets/Scenes/QUIZ-DIVIS\xC3O.unity"
+    guid: 3ac663873eea9964a80ca36b0d5c1441
+  - enabled: 1
+    path: "Assets/Scenes/QUIZ-MULTIPLICA\xC7\xC3O.unity"
+    guid: 2bbebbbacd6f75a46a18af8858764d8b
+  - enabled: 1
+    path: "Assets/Scenes/QUIZ-SUBTRA\xC7\xC3O.unity"
+    guid: d43fbed9f091a2b409c020890f4f7ca1
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
